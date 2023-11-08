@@ -107,6 +107,7 @@
 ### SDK & Libaries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
+- [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 - [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
 - [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)  
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
@@ -122,6 +123,7 @@
 
 ### Smart Contracts (EVM)
 
+- [6900](https://github.com/erc6900/reference-implementation)
 - [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
@@ -147,6 +149,7 @@
 - [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
+- [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler) by Alchemy
 
 ### Paymasters
 
@@ -183,6 +186,7 @@
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
+- [Alchemy](https://www.alchemy.com/account-kit)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
 - [Braavos](https://braavos.app/)
